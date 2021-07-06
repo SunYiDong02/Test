@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("在sunyidong的分支提交一次");
         System.out.println("在sunyidong的分支提交2次");
         System.out.println("在sunyidong的分支提交2次");
-        System.out.println("在sunyidong改动尝试cheey-pick");
-        System.out.println("在sunyidong改动尝试cheey-pick2");
+        System.out.println("reve");
     }
 }
