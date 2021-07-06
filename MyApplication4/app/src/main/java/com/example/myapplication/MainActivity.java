@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
         System.out.println("在master分支提交第一次");
+        System.out.println("在master分支提交第二次");
         System.out.println("在sunyidong的分支提交一次");
     }
 }
